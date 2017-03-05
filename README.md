@@ -5,3 +5,4 @@ In our project, we are creating an Open Source model of wheelchair which can be 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 Here you can find all the models to create or redisigns a wheel chair.
+To understand the name of the object you should see the archive "wheelchair"
